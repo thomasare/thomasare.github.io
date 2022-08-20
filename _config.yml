@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "@ArianeEThomas
+  username               : &twitter "ArianeEThomas"
 facebook:
   username               :
   app_id                 :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "thomasare"
+  github           : "github.com/thomasare"
   google_plus      :
   keybase          :
   instagram        :
