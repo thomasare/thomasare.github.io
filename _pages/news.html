@@ -4,13 +4,6 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-
-{% include base_path %}
-
-{% for post in site.news %}
-  {% include archive-single.html %}
-{% endfor %}
-
 <a href="https://www.science.org/content/article/jamestown-colonists-may-have-kept-eaten-indigenous-american-dogs#:~:text=%E2%80%9CThey%20were%20running%20low%20on,uncommon%20when%20times%20got%20tough.">Jamestown colonists may have kept eaten indigenous American dogs</a>
 <br>
 <br>
@@ -21,3 +14,9 @@ author_profile: true
 <br>
 <br>
 <a href="https://www.archaeology.org/news/10441-220404-jamestown-ancient-dogs">Remains of Ancient American Dogs Identified at Jamestown</a>
+
+{% include base_path %}
+
+{% for post in site.news %}
+  {% include archive-single.html %}
+{% endfor %}
