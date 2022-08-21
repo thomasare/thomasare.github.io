@@ -20,4 +20,4 @@ Research Interests
 - Admixture and introgression
 - Forensic anthropology
 
-Feel free to reach out to me if you’d like to chat about my research interests, science communication, or dogs! I’d love to hear from you! [Contact me!](ariane-thomas@uiowa.edu)
+Feel free to reach out to me if you’d like to chat about my research interests, science communication, or dogs! I’d love to hear from you!
