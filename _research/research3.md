@@ -1,3 +1,8 @@
+---
+title: "Research"
+collection: research
+permalink: /research/
+---
 
 Effects of genetic variation on cancer phenotypes
 ======
