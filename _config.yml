@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ariane E. Thomas"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Ariane E. Thomas"
 description              : &description "Ph.D Candidate"
