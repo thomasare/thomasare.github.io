@@ -89,4 +89,8 @@ And finally, make some time for yourself. Set boundaries. Meet other graduate st
  
 Get out there and make the most of your first year in graduate school!
 
+<hr>
+
+<p style="color:#808080">Acknowledgements: A special thanks to Corinne Watts for her suggestions on this post.</p>
+
 ------
