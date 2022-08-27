@@ -1,4 +1,5 @@
 ## Starting Graduate School? How to make the most of your first year 
+
 First, let me say: congratulations! Your acceptance to a graduate program is no small achievement!  
 <br>
 I imagine you are excited, overwhelmed, apprehensive, and underprepared while simultaneously incredibly impatient to start, among other conflicting emotions. The first semester can be daunting, especially if you are studying a new discipline or have traveled to a new city or country for graduate school. If you were anything like me when I started, you want everything to be perfect. You are eager to set the bar high for your advisor or other professors that interact with you. You want to show them that you are worthy of being a graduate student.  
