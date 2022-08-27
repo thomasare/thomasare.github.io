@@ -2,6 +2,7 @@
 title: 'Starting graduate school: making the most of your first year'
 date: 2022-08-27
 permalink: /posts/2022/08/blog-post-1/
+excerpt: I imagine you are excited, overwhelmed, apprehensive, and underprepared while simultaneously incredibly impatient to start, among other conflicting emotions. The first semester can be daunting, especially if you are studying a new discipline or have traveled to a new city or country for graduate school. Let me help you establish your priorities for this first semester and beyond.
 tags:
   - grad school
   - academia
