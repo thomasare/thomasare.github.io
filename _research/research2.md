@@ -11,4 +11,4 @@ Recent genetic studies have found that many dog lineages that have been in the A
 <br>
 <br>
 <h2>2022 American Association of Biological Anthropologists Poster</h2>
-<p>Open PDF <a href="2022_AABA_Jamestown_Final.pdf>file</a>.</p>
+<p>Open PDF <a href="2022_AABA_Jamestown_Final.pdf>file</a></p>
