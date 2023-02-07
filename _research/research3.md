@@ -15,12 +15,12 @@ Recent genetic studies have found that many dog lineages that have been in the A
 
 [2022 American Association of Biological Anthropologists Poster](https://thomasare.github.io/files/2022_AABA_Jamestown_Final.pdf)
 <br>
-[2022 American Association of Biological Anthropology Supplementary Material]([https://](https://thomasare.github.io/files/AABA_2022_Jamestown_aDNA.pdf)
+[2022 American Association of Biological Anthropology Supplementary Material](https://thomasare.github.io/files/AABA_2022_Jamestown_aDNA.pdf)
 <br>
 <br>
 [2022 Society of American Archaeologists Poster](https://thomasare.github.io/files/2022_SAA_Jamestown_Poster_Final.pdf)
 <br>
-[2022 Society of American Archaeologists Supplementary Material]([https://](https://thomasare.github.io/files/SAA_2022_Jamestown_mtDNA.pdf)
+[2022 Society of American Archaeologists Supplementary Material](https://thomasare.github.io/files/SAA_2022_Jamestown_mtDNA.pdf)
 
 
 ## Effects of genetic variation on cancer phenotypes
