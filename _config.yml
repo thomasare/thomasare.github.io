@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ariane E. Thomas"
 title_separator          : "-"
 name                     : &name "Ariane E. Thomas"
-description              : &description "Ph.D Candidate"
+description              : &description "Postdoctoral Researcher"
 url                      : https://thomasare.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "thomasare/thomasare.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ariane E. Thomas"
   avatar           : "profile.png"
-  bio              : "Ph.D Candidate"
+  bio              : "Postdoctoral Researcher"
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Dhmz_70AAAAJ&hl=en"
-  email            : "ariane-thomas@uiowa.edu"
+  email            : "arianethomas59@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
