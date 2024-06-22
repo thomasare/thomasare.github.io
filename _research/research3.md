@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Changes in dog morphology throughout time
 
-Dogs have existed for 40,000-20,000 years. but most of the modern dog breeds we know and love today were created within the last 500 - 400 years. This leaves a tremendously large gap in our knowledge about the human relationship with dogs. How did humans thousands of years ago manage their dogs? How did this management affect dog morphology? I have collected osteometric and 3D data of North American dogs spanning 10,000 years of time to investigate how geography, time, and culture affects differences in dog body size and shape.  
+Dogs have existed for 40,000-20,000 years. but most of the modern dog breeds we know and love today were created within the last 500 - 400 years. This leaves a tremendously large gap in our knowledge about the human relationship with dogs. How did humans thousands of years ago manage their dogs? How did this management affect dog morphology? I have collected osteometric and 3D data of North American dogs spanning 10,000 years of time to investigate how geography and culture affects differences in dog body size and shape.  
 
 
 ## Genetic history of European dogs in the Americas
@@ -23,6 +23,5 @@ Recent genetic studies have found that many dog lineages that have been in the A
 [2022 Society of American Archaeologists Supplementary Material](https://thomasare.github.io/files/SAA_2022_Jamestown_mtDNA.pdf)
 
 
-## Effects of genetic variation on cancer phenotypes
-
-Ovarian cancer is the fifth leading cause of cancer-associated deaths among women, but we know very little about the underlying genetic variation and how it affects treatment outcomes. Recently, I finished a project that found that individuals with mutated BRCA genes often also have mutated TP53 genes and that these specific genotypes affect transcription levels under treatment conditions. I am now exploring the link between copy number variation in mitochondrial DNA and ovarian and uterine cancers. 
+## Linking genetic variation to dog physical and disease phenotypes in dogs.
+Extreme selective breeding of dogs over the past 200 hundreds and led to an incredible amount of physical diversity in dog breeds. It is possible to leverage this knowledge to identify candidate variants that are potentially associated with specific physical characteristics and rare diseases. 
